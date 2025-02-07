@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "argv": [
+    "C:\\Program Files (x86)\\scala\\libexec\\scala-cli.exe",
+    "--cli-default-scala-version",
+    "3.6.2",
+    "--repository",
+    "file:///C:/Program Files (x86)/scala/maven2",
+    "--prog-name",
+    "scala",
+    "--skip-cli-updates",
+    "bsp",
+    "--json-options",
+    "c:\\studia\\tw\\TWWebCrawler\\src\\main\\scala\\webcrawler\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "c:\\studia\\tw\\TWWebCrawler\\src\\main\\scala\\webcrawler\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "c:\\studia\\tw\\TWWebCrawler\\src\\main\\scala\\webcrawler\\.scala-build\\ide-envs.json",
+    "c:\\studia\\tw\\TWWebCrawler\\src\\main\\scala\\webcrawler\\WebCrawler.scala"
+  ],
+  "version": "1.5.4",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
